@@ -14,6 +14,17 @@ This project implements kinematic modeling, workspace analysis, inverse kinemati
 
 The objective is to connect theoretical robot motion planning with numerical simulation of a 6-DOF robotic system.
 
+
+---
+
+## Tools Used
+
+- Python 3.10+
+- Robotics Toolbox for Python
+- NumPy
+- Matplotlib
+- SpatialMath
+
 ---
 
 ## 2. Robot Model and Kinematics
